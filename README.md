@@ -2,11 +2,11 @@
 Repository contains material and presentation from the null session on the topic "Writing Internet Bots with Python" 
 which I spoke at on 25th feb 2017.
 
-## Slides
+# Slides
 The presentation slides are available at 
 https://docs.google.com/presentation/d/10ebTEloj5mOYZGzDormlCkRUj-o1N329j_YCSswmBvw/edit?usp=sharing
 
-## Setting up the exercises
+# Setting up the exercises
 
 
 ## Dependencies 
